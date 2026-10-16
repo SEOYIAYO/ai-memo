@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: '야르~',
+  title: '메모장 야호~',
   description: '카테고리와 검색을 지원하는 마크다운 메모 앱',
 }
 
