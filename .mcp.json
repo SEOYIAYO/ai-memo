@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "playwright-mcp": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    },
+    "context7": {
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp"
+    },
+    "supabase": {
+      "type": "http",
+      "url": "https://mcp.supabase.com/mcp?project_ref=hqhkjkndaqwvslyfjjuo&features=docs%2Caccount%2Cdatabase%2Cdevelopment"
+    }
+  }
+}
